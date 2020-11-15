@@ -1,4 +1,2 @@
 # stepik-auto-tests-course
-Homework
-Я молодец
-
+Домашка для курса Автоматизация тестирования с помощью Selenium и Python
